@@ -43,7 +43,7 @@ Since dataset doesn't have actual review text, I've created both:
 - Review length vs rating correlation analysis
 - Statistical significance testing
 
-### **Task 2:** Votes Analysis**
+### **Task 2:** Votes Analysis
 **Comprehensive votes analysis including:**
 - **Highest voted restaurants**: Top 10 with detailed information
 - **Lowest voted restaurants**: Bottom 10 (excluding zero votes)
@@ -76,8 +76,7 @@ Since dataset doesn't have actual review text, I've created both:
 - Heatmaps for relationship matrices
 - Statistical summary tables
 
-
-2. **Download NLTK data (run once):**
+**Download NLTK data (run once):**
 ```python
 import nltk
 nltk.download('punkt')
