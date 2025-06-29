@@ -32,7 +32,7 @@ This repository contains the complete implementation of Level 2 &amp; Level 3 ta
 
   
 ### **Task 1:** Restaurant Reviews Analysis
-Since your dataset doesn't have actual review text, I've created both:
+Since dataset doesn't have actual review text, I've created both:
 - **Actual Analysis**: Works with the 'Rating text' column in your dataset
 - **Simulated Analysis**: Shows how to analyze actual review text if available
 
